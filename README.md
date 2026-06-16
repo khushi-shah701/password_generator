@@ -17,16 +17,6 @@ A modern and responsive Password Generator built using HTML, CSS, and JavaScript
 
 ---
 
-## 🖥️ Demo
-
-Run the project locally:
-
-```text
-http://127.0.0.1:5500/password-generator-master/index.html
-```
-
----
-
 ## 📂 Project Structure
 
 ```text
